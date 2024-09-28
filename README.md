@@ -16,5 +16,5 @@ As dataset, black and white alphanumeric images were used.(28 x 28 pixels)
 | dense (Dense)                 | (None, 128)        | 32,896      |
 | dense_1 (Dense)               | (None, 47)         | 6,063       |
 
- Total params: 2,943,663 (11.23 MB)
+ Total params: 2,943,663
 
